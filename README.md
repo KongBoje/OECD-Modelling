@@ -8,7 +8,9 @@ As seen from the ERD model the attributes they contain are very much the same, s
 
 ### 2. Transfer that logical data model into a physical data model and create the necessary tables in PostgreSQL
 So from the physical model I have made a logical model with the tables designed like this:
-![logical]()
+
+![logical](logic_table1.jpg)
+![logicall](logic_table2.jpg)
 
 ### 3. Load all the data into your database - Hint: You can do this in Python very easily if you load the csv data using Pandas (pandas.read_csv) and iterate over the rows.
 
