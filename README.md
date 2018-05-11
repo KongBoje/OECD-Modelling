@@ -13,7 +13,10 @@ So from the physical model I have made a logical model with the tables designed 
 ![logicall](logic_table2.jpg)
 
 ### 3. Load all the data into your database - Hint: You can do this in Python very easily if you load the csv data using Pandas (pandas.read_csv) and iterate over the rows.
-TBD
+Before you can load all the data from the csv files into your database, you have to make sure you can reach the files. You do this by placing the csv files in the same folder you are running the ipynb file.
+
+This can be seen here:
+![fileloc]()
 
 ### 4. Find the country whose GDP has grown the most over time and plot the level of education on the x axis and the life expectancy on the y axis. Do the same thing for the country whose GDP has grown the least over time
 TBD
